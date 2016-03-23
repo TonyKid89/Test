@@ -6,7 +6,7 @@ public class Fish extends Pat {
 	public int dive(int howDeep){
 		currentDepth=currentDepth + howDeep;
 		if(currentDepth>100){
-			System.out.println("ті че, офанарел с такой глубиной?");
+			System.out.println("ті че, офаhарел с такой глубиной?");
 			currentDepth=currentDepth - howDeep;
 		} else {
 		System.out.println("Заныриваю на " + howDeep + " футов");
