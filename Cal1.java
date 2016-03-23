@@ -9,7 +9,7 @@ public class Cal1  {
 		windContent.setLayout(new BoxLayout(windContent, BoxLayout.X_AXIS));
 		
 		//instane of things
-		JLabel lb1 = new JLabel("Button namba one");
+		JLabel lb1 = new JLabel("Button namba 1");
 		JTextField tf1 = new JTextField(10);
 		JLabel lb2 = new JLabel("Button namba 2");
 		JTextField tf2 = new JTextField(10);
